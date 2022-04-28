@@ -1,3 +1,9 @@
+Below are the requirements given for the Vending Machine program as prescribed by Tech Elevator.  In a group of 4 students, below is the code we provided as our project after a weekend of development. 
+
+
+
+
+
 ## Module 1 Capstone - Vending Machine Software
 
 You've been asked to develop an application for the newest vending machine distributor,
